@@ -5,6 +5,11 @@ namespace Unno
         public Form1()
         {
             InitializeComponent();
+
+            int Calcular = 1 * 1;
+
+
+
         }
     }
 }
